@@ -205,7 +205,7 @@ header .device-container .screen img {
 }
 @media (min-width: 769px) {
   header .header-content-inner {
-    padding: 100px 0 50px;
+    padding: 150px 0 50px;
   }
   header {
     min-height:; 1200px;
@@ -218,7 +218,7 @@ header .device-container .screen img {
   header .header-content {
     text-align: center;
     padding: 15px 0 50px;
-    height: 115vh;
+    height: 100vh;
   }
   header .header-content .header-content-inner {
     max-width: none;
@@ -533,10 +533,6 @@ h1.mainTitle {
 #betterSharing {
     box-shadow: 0px -10px 60px rgba(0,0,0,0.5);
 }
-#betterSharing a {
-  color: #fff;
-  text-decoration: underline;
-}
 #betterSharing h2 {
   font-size: 50px;
 }
@@ -585,5 +581,5 @@ a.whiteLink:hover {
 }
 
 .hero-logo img {
-  max-width: 250px;
+  max-width: 150px;
 }
